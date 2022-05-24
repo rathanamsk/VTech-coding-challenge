@@ -10,6 +10,6 @@ For running the application without any hassle
     or yarn install
 #### Step2
     npm run dev
-    or yarn run dev
+    or yarn dev
 #### Open http://localhost:3000 in your browser
 ### Application have to be running on port 3000

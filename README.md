@@ -1,5 +1,5 @@
 # VTech-coding-challenge
-### 🚨 This project is for testing purpose (only)
+### 🚨 This project is for testing purpose only
 
 #### To make more convince to test, env file is attached there
 
